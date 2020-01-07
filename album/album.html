@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Album</title>
+    <link rel="stylesheet" href="../main-css/main-style.css">
+    <link rel="stylesheet" href="album.css" />
+
+
+    <link
+    rel="stylesheet"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+    crossorigin="anonymous"
+  />
+  <link
+  rel="stylesheet"
+  href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+  integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
+  crossorigin="anonymous"
+/>
+<!-- <link
+      href="https://fonts.googleapis.com/css?family=Montserrat&display=swap"
+      rel="stylesheet"
+    /> -->
+    <!-- <link
+      href="https://fonts.googleapis.com/css?family=Montserrat&display=swap"
+      rel="stylesheet"
+    /> -->
+  </head>
+  <body>
+    <div id="background" class="dynamicBackground color1">
+      <svg viewBox="0 0 100 100">
+        <rect class="rectA" width="100" height="200" x="-50" y="-50" />
+        <!-- <rect class="rectB" width="100" height="200" x="50" y="-50" /> -->
+      </svg>
+    </div>
+
+    <div class="container-fullwidth mainWrapper">
+    
+ <nav
+ id="NAVBAR"
+ class="navbar navbar-expand-lg navbar-expand-md navbar-expand-sm navbar bg"
+>
+ <a href="../index.html" class="navbar-brand">
+   <img src="../img/newlogo.png" id="navLogo" alt="logo"
+ /></a>
+ <div class="card"></div>
+ <div class="nav-item">
+   <img
+     src="img/plus.png"
+     onclick="openNav()"
+     class="open navbar-toggler"
+     alt="plus"
+   />
+ </div>
+
+ <div class="collapse navbar-collapse">
+   <ul class="navbar-nav ml-auto">
+     <li class="nav-item">
+       <a href="album.html" class="nav-link active"><p>ALBUM</p></a>
+     </li>
+     <li class="nav-item">
+       <a href="../shows/shows.html" class="nav-link"><p>SHOWS</p></a>
+     </li>
+     <li class="nav-item">
+       <a href="../about/about.html" class="nav-link nav-l-about"><p>ABOUT</p></a>
+     </li>
+   </ul>
+ </div>
+</nav>
+    <main>
+
+
+      <img src="" alt="">
+      <div id="left">
+        <div class="leftSide col-sm-12">
+
+      <br>
+      <br>
+      
+      <h1 class="hideLg" id="albumH1">ALBUM</h1>
+    
+      <br>
+      <br>
+      <br>
+      <br>
+          <h2 id=albumH2>IT'S OKAY NOT TO BE OKAY</h2>
+      
+         
+        <ul id="albumPlaylist">
+         
+        
+          
+          <template id="audioTemplate">
+            <div class="audioWrapper" id="audioWrapper" data-color="" data-id="" data-coverphoto="" data-gradientphoto="" data-songsrc="">
+              <li id="songData1" class="songData">
+            <div class="updateColor" data-forGradient="">
+            <p class="songnumber"></p>
+            <img src="" alt="" class="playlistPic">
+            <button class="musicButton playButton" id="playButton">
+              <i class="fas fa-caret-right"></i>
+            </button>
+            <button
+              class="musicButton pauseButton"
+              id="pauseButton"
+            >
+              <i class="fas fa-pause"></i>
+            </button>
+            <p class="songtitle"> </p>
+                  
+            <audio id="audio" controls="controls" class="audio hidden">
+              <source id="audioSource" src="" data-songsrc=""></source>
+              Your browser does not support the audio format.
+            </audio>
+                </div>
+              </li>
+            </div>
+          </template>
+        
+          
+        </ul>
+      
+     
+   
+      </div>
+      
+        <div class="circle col-sm-12">
+          <br class="hideSm">
+          <br class="hideSm">
+          <h1 class="hideSm">ALBUM</h1>
+          <div class="gradientCircle">
+          <img class="onChangePhoto changePic" src="../img/new_cover_1.png" alt="pieces"></div>
+       </div> 
+
+        <div class="rigthSide col-sm-12 offset-md-4 offset-lg-0">
+         
+         
+
+           <div class="squarePics"><img src="../img/album/01.jpg" class="squareCoverPhoto squarePic1" alt="intro">
+            <img src="../img/album/02.jpg" class="squareCoverPhoto squarePic2" alt="intro"></div> 
+            <div class="songText col-sm-12">
+              <h3 class="titleRight">Intro</h3>
+<p class="extraSpace">Info</p>
+<p>When I saw a really good friend of mine go into this really destructive way of living because of a really bad relationship he had with this girl. He got cheated, and lied to all the time and started just loose his ways more and more. I’m singing about ”picking up the pieces, even though I shouldn’t do cause even though they’re broken, they’re still a part of me and you” its about holding on to something thats broken and lost already, but the little things you hold on to is still beautiful because they was once a part of something you really loved.</p>
+<a href="https://open.spotify.com/album/7eyCOdzxZmdgsLds8HqI6w?si=Db2CGYjbSziGwUJ7wE4KbQ"><br><button class="classicBtn">LISTEN ON SPOTIFY</button></a>
+             
+              <!-- <template id="songTemplate">
+                 
+                  <img class="squareCoverPhoto" src="" alt="">
+<h3 id="albumH3">Intro</h3>
+<p>Info</p>
+<p>When I saw a really good friend of mine go into this really destructive way of living because of a really bad relationship he had with this girl. He got cheated, and lied to all the time and started just loose his ways more and more. I’m singing about ”picking up the pieces, even though I shouldn’t do cause even though they’re broken, they’re still a part of me and you” its about holding on to something thats broken and lost already, but the little things you hold on to is still beautiful because they was once a part of something you really loved.</p>
+<button class="classicBtn"><h3></h3>LISTEN ON SPOTIFY</button>
+</template> -->
+            </div>
+          </div>
+          
+         
+      </div>
+    
+      <div id="right">
+    
+        </div>
+
+       
+    </main>
+  
+    </div>
+
+    
+<div id="navGrid">
+  <div id="myNav" class="overlay">
+    <a href="javascript: void(0)" class="close" onclick="closeNav()"
+      >&times;</a
+    >
+    <div class="overlay-content">
+      <a href="album.html"> ALBUM </a>
+      <a href="../shows/shows.html"> SHOWS </a>
+      <a href="../about/about.html"> ABOUT </a>
+    </div>
+  </div>
+</div>
+  
+
+    <script src="album.js"></script>
+    <script src="../main-js/main-script.js"></script>   
+    
+  </body>
+</html>
+
+

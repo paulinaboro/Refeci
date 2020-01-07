@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="../main-css/main-style.css">  
+    <link rel="stylesheet" href="about.css" />
+    <link
+    rel="stylesheet"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+    crossorigin="anonymous"
+  />
+  <link
+    href="https://fonts.googleapis.com/css?family=Lato&display=swap"
+    rel="stylesheet"
+  />
+<!-- font poppins -->
+<link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+  <!-- font montserrat -->
+  <!-- <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet"> -->
+  
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+  <!-- fontawesome -->
+  <script
+    src="https://kit.fontawesome.com/956d468e73.js"
+    crossorigin="anonymous"
+  ></script>
+    <title>Contact</title>
+     <!-- fontawesome -->
+     <script
+     src="https://kit.fontawesome.com/956d468e73.js"
+     crossorigin="anonymous"
+   ></script>
+  </head>
+  <body>
+   
+    <div id="navGrid">
+      <div id="myNav" class="overlay">
+        <a href="javascript: void(0)" class="close" onclick="closeNav()"
+          >&times;</a
+        >
+        <div class="overlay-content">
+          <a href="../album/album.html"> ALBUM </a>
+          <a href="../shows/shows.html"> SHOWS </a>
+          <a href="about.html"> ABOUT </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fullwidth mainWrapper">
+   
+ 
+
+      <nav
+      id="NAVBAR"
+      class="navbar navbar-expand-lg navbar-expand-md navbar-expand-sm navbar bg"
+    >
+      <a href="../index.html" class="navbar-brand">
+        <img src="../img/newlogo.png" id="navLogo" alt="logo"
+      /></a>
+      <div class="card"></div>
+      <div class="nav-item">
+        <img
+          src="img/plus.png"
+          onclick="openNav()"
+          class="open navbar-toggler"
+          alt="plus"
+        />
+      </div>
+
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a href="../album/album.html" class="nav-link"><p>ALBUM</p></a>
+          </li>
+          <li class="nav-item">
+            <a href="../shows/shows.html" class="nav-link"><p>SHOWS</p></a>
+          </li>
+          <li class="nav-item">
+            <a href="about.html" class="nav-link active"><p>ABOUT</p></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+  
+ <div class="aboutDiv">
+    <h1 class="mainHeader2">ABOUT</h1>
+  </div>
+<template id="contactTemplate1">
+       <div class="row">
+
+        <div class="col-lg-2 col-sm-12"></div>
+        <div id="showsRow2Col1" class="col-lg-4 col-sm-12 smOrder2">
+        <h2 class="mainHeader"></h2>
+        <p></p>
+
+    
+        
+        <a href="#bookingSection"><button class="classicBtn alignBtn">CONTACT</button></a>
+      
+            <a href="" class="spotify_link"><i class="fab fa-spotify"></i></a>
+            <a href="" class="fb_link"><i class="fab fa-facebook"></i></a>
+            <a href="" class="soundcloud_link"><i class="fab fa-soundcloud"></i></a>
+            <a href="" class="instagram_link"><i class="fab fa-instagram"></i></a>
+            <a href="" class="youtube_link"><i class="fab fa-youtube"></i></a>
+        </div>
+        <div id="showsRow2Col2" class="col-lg-4 col-sm-12 order-1 smOrder1">
+
+          <img src="" class="portrait" alt="">
+          
+        </div>
+        <!-- <div class="col-lg-1 col-sm-12"></div> -->
+      </div>
+      </template>
+
+      <template id="contactTemplate2">
+        <div class="row">
+          <div class="col-lg-2 col-sm-12"></div>
+         <div id="showsRow2Col1" class="col-lg-4">
+          <img src="" class="portrait" alt="">
+         </div>
+         <div id="showsRow2Col2" class="col-lg-4 col-sm-12">
+          <h2 class="mainHeader"></h2 class="mainHeader">
+          <p></p>
+          <button class="classicBtn alignBtn"><a href="#bookingSection">CONTACT</a></button>
+            <a href="" class="spotify_link"><i class="fab fa-spotify"></i></a>
+            <a href="" class="fb_link"><i class="fab fa-facebook"></i></a>
+            <a href="" class="soundcloud_link"><i class="fab fa-soundcloud"></i></a>
+            <a href="" class="instagram_link"><i class="fab fa-instagram"></i></a>
+            <a href="" class="youtube_link"><i class="fab fa-youtube"></i></a>
+         </div>
+         <div class="col-lg-2 col-sm-12"></div>
+       </div>
+       </template>
+  
+      <div class="insert1"></div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <div class="insert2"></div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+
+      <div class="row"><h1 class="mainHeader2 booking1">BOOKING</h1></div>
+      <div class="row">
+        <div class="col-lg-1 ">
+
+
+          
+        </div>
+
+   
+        <div id="showsRow2Col2" class="col-lg-5">
+
+         
+          <form class="form-example" action="https://formspree.io/xeqeykwn" method="POST">
+            <div class="form">
+            
+              <input type="text" name="name" id="name" placeholder="Full Name" required>
+            </div>
+            <div class="form-example">
+              <input type="email" name="_replyto" id="email" placeholder="Email" required>
+            </div>
+          
+  
+<div>
+<textarea id="story" name="story"
+          rows="5" cols="33">
+Message
+</textarea>
+</div>
+<div class="form-example">
+  <input type="submit" value="Send" id="formBtn" class="classicBtn">
+</div>
+          </form>
+          
+        </div>
+        <div id="showsRow2Col1" class="col-lg-5">
+         
+          <h2>RECORD LABEL</h2>
+        
+        <p>Refeci and Michel Fannoun are the part of the "LoudKult" label.</p>
+          <p>
+            LoudKult is a Stockholm based Record Label created by artists for artists. It’s founded by and is managed by worldwide recognized music artists Lucas Estrada & Alex Alexander who have gathered plenty of experience in the music industry and are helping promising artists reach their ambitions.</p>
+
+           <p> We hope to hear from you if you are interested working with our artists!</p>
+          <p></p>  - All the best</p>
+         
+          <img src="../img/LK_white.png" id="loudkLogo" alt="Loud Kult logo">
+        </div>
+        <div class="col-lg-1"></div>
+        <br>
+        <br>
+        <br>
+        <br>
+      </div>
+<footer>
+  <div class="row">
+<div class="col-lg-4">
+  <ul class="list1">
+  <li><a href="../album/album.html"><p>ALBUM</p></a></li>
+  <li><a href="../shows/shows.html"><p>SHOWS</p></a></li>
+  <li><a href="about.html"><p>ABOUT</p></a></li>
+</ul>
+</div>
+<div class="col-lg-4"></div>
+<div class="col-lg-2">
+  <ul class="list2">
+    <li><p>MANAGEMENT</p></li>
+    <li><p>Lukas Estrada</p></li>
+    <li><p>lukasestrada@loudkult.com</p></li>
+  </ul>
+</div>
+<div class="col-lg-2">
+  <ul class="list3">
+  <li><img src="../img/LK_white.png" id="loudkLogo" alt="Loud Kult logo"></li>
+  <li><a href="https://open.spotify.com/playlist/1dr2DQkKUJSv9Y61JgsWV5?si=s7SP7jvuQgKEh4zFIYIuCQ" class="spotify_link"><i class="fab fa-spotify"></i></a><a href="https://soundcloud.com/loudkult" class="soundcloud_link"><i class="fab fa-soundcloud"></i></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row"> 
+  <div class="col-lg-5"></div>
+  <p class="col-lg-2 copyright-text">© 2019 Copyright: Impact Stud.io</p>
+  <div class="col-lg-5"></div>
+</div>
+</footer>
+   
+</div>
+ 
+      <script src="about.js"></script>
+    <script src="../main-js/main-script.js"></script>
+
+
+  </body>
+</html>

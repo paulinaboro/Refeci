@@ -1,0 +1,317 @@
+[
+  {
+    "id": 96,
+    "date": "2019-12-16T19:15:07",
+    "date_gmt": "2019-12-16T19:15:07",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=background_photo&#038;p=96"
+    },
+    "modified": "2019-12-16T21:43:55",
+    "modified_gmt": "2019-12-16T21:43:55",
+    "slug": "slide3",
+    "status": "publish",
+    "type": "background_photo",
+    "link": "http://paubodesign.com/kea/finalProject/background_photo/slide3/",
+    "title": {
+      "rendered": "slide3"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "img": {
+        "ID": 94,
+        "id": 94,
+        "title": "New cover 16by9 desktop new",
+        "filename": "New-cover-16by9-desktop-new.png",
+        "filesize": 2334229,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+        "link": "http://paubodesign.com/kea/finalProject/background_photo/slide1/new-cover-16by9-desktop-new/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "new-cover-16by9-desktop-new",
+        "status": "inherit",
+        "uploaded_to": 93,
+        "date": "2019-12-16 19:04:02",
+        "modified": "2019-12-16 19:04:02",
+        "menu_order": 0,
+        "mime_type": "image/png",
+        "type": "image",
+        "subtype": "png",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 1920,
+        "height": 1079,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-150x150.png",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-300x169.png",
+          "medium-width": 300,
+          "medium-height": 169,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-768x432.png",
+          "medium_large-width": 580,
+          "medium_large-height": 326,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1024x575.png",
+          "large-width": 580,
+          "large-height": 326,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1536x863.png",
+          "1536x1536-width": 1536,
+          "1536x1536-height": 863,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+          "2048x2048-width": 1920,
+          "2048x2048-height": 1079,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1200x674.png",
+          "post-thumbnail-width": 1200,
+          "post-thumbnail-height": 674,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+          "twentytwenty-fullscreen-width": 1920,
+          "twentytwenty-fullscreen-height": 1079
+        }
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/background_photo/96"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/background_photo"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/background_photo"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=96"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "date": "2019-12-16T19:14:41",
+    "date_gmt": "2019-12-16T19:14:41",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=background_photo&#038;p=95"
+    },
+    "modified": "2019-12-16T21:43:59",
+    "modified_gmt": "2019-12-16T21:43:59",
+    "slug": "slide2",
+    "status": "publish",
+    "type": "background_photo",
+    "link": "http://paubodesign.com/kea/finalProject/background_photo/slide2/",
+    "title": {
+      "rendered": "slide2"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "img": {
+        "ID": 94,
+        "id": 94,
+        "title": "New cover 16by9 desktop new",
+        "filename": "New-cover-16by9-desktop-new.png",
+        "filesize": 2334229,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+        "link": "http://paubodesign.com/kea/finalProject/background_photo/slide1/new-cover-16by9-desktop-new/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "new-cover-16by9-desktop-new",
+        "status": "inherit",
+        "uploaded_to": 93,
+        "date": "2019-12-16 19:04:02",
+        "modified": "2019-12-16 19:04:02",
+        "menu_order": 0,
+        "mime_type": "image/png",
+        "type": "image",
+        "subtype": "png",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 1920,
+        "height": 1079,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-150x150.png",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-300x169.png",
+          "medium-width": 300,
+          "medium-height": 169,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-768x432.png",
+          "medium_large-width": 580,
+          "medium_large-height": 326,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1024x575.png",
+          "large-width": 580,
+          "large-height": 326,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1536x863.png",
+          "1536x1536-width": 1536,
+          "1536x1536-height": 863,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+          "2048x2048-width": 1920,
+          "2048x2048-height": 1079,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1200x674.png",
+          "post-thumbnail-width": 1200,
+          "post-thumbnail-height": 674,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+          "twentytwenty-fullscreen-width": 1920,
+          "twentytwenty-fullscreen-height": 1079
+        }
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/background_photo/95"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/background_photo"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/background_photo"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=95"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "date": "2019-12-16T19:14:18",
+    "date_gmt": "2019-12-16T19:14:18",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=background_photo&#038;p=93"
+    },
+    "modified": "2019-12-16T19:14:18",
+    "modified_gmt": "2019-12-16T19:14:18",
+    "slug": "slide1",
+    "status": "publish",
+    "type": "background_photo",
+    "link": "http://paubodesign.com/kea/finalProject/background_photo/slide1/",
+    "title": {
+      "rendered": "slide1"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "img": {
+        "ID": 94,
+        "id": 94,
+        "title": "New cover 16by9 desktop new",
+        "filename": "New-cover-16by9-desktop-new.png",
+        "filesize": 2334229,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+        "link": "http://paubodesign.com/kea/finalProject/background_photo/slide1/new-cover-16by9-desktop-new/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "new-cover-16by9-desktop-new",
+        "status": "inherit",
+        "uploaded_to": 93,
+        "date": "2019-12-16 19:04:02",
+        "modified": "2019-12-16 19:04:02",
+        "menu_order": 0,
+        "mime_type": "image/png",
+        "type": "image",
+        "subtype": "png",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 1920,
+        "height": 1079,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-150x150.png",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-300x169.png",
+          "medium-width": 300,
+          "medium-height": 169,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-768x432.png",
+          "medium_large-width": 580,
+          "medium_large-height": 326,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1024x575.png",
+          "large-width": 580,
+          "large-height": 326,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1536x863.png",
+          "1536x1536-width": 1536,
+          "1536x1536-height": 863,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+          "2048x2048-width": 1920,
+          "2048x2048-height": 1079,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1200x674.png",
+          "post-thumbnail-width": 1200,
+          "post-thumbnail-height": 674,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+          "twentytwenty-fullscreen-width": 1920,
+          "twentytwenty-fullscreen-height": 1079
+        }
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/background_photo/93"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/background_photo"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/background_photo"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=93"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

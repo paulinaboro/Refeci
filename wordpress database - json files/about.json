@@ -1,0 +1,226 @@
+[
+  {
+    "id": 91,
+    "date": "2019-12-16T16:12:51",
+    "date_gmt": "2019-12-16T16:12:51",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=contact&#038;p=91"
+    },
+    "modified": "2019-12-18T17:24:21",
+    "modified_gmt": "2019-12-18T17:24:21",
+    "slug": "michel-fannoun",
+    "status": "publish",
+    "type": "contact",
+    "link": "http://paubodesign.com/kea/finalProject/contact/michel-fannoun/",
+    "title": {
+      "rendered": "Michel Fannoun"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "img": {
+        "ID": 82,
+        "id": 82,
+        "title": "michel_contact",
+        "filename": "michel_contact.png",
+        "filesize": 561255,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/michel_contact.png",
+        "link": "http://paubodesign.com/kea/finalProject/michel_contact/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "michel_contact",
+        "status": "inherit",
+        "uploaded_to": 81,
+        "date": "2019-12-16 15:09:58",
+        "modified": "2019-12-16 15:09:58",
+        "menu_order": 0,
+        "mime_type": "image/png",
+        "type": "image",
+        "subtype": "png",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 777,
+        "height": 777,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/michel_contact-150x150.png",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/michel_contact-300x300.png",
+          "medium-width": 300,
+          "medium-height": 300,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/michel_contact-768x768.png",
+          "medium_large-width": 580,
+          "medium_large-height": 580,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/michel_contact.png",
+          "large-width": 580,
+          "large-height": 580,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/michel_contact.png",
+          "1536x1536-width": 777,
+          "1536x1536-height": 777,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/michel_contact.png",
+          "2048x2048-width": 777,
+          "2048x2048-height": 777,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/michel_contact.png",
+          "post-thumbnail-width": 777,
+          "post-thumbnail-height": 777,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/michel_contact.png",
+          "twentytwenty-fullscreen-width": 777,
+          "twentytwenty-fullscreen-height": 777
+        }
+      },
+      "header_name": "Michel Fannoun",
+      "description": "When I saw a really good friend of mine go into this really destructive way of living because of a really bad relationship he had with this girl. He got cheated, and lied to all the time and started just loose his ways more and more. I’m singing about ”picking up the pieces, even though I shouldn’t do cause even though they’re broken, they’re still a part of me and you” its about holding on to something thats broken and lost already, but the little things you hold on to is still beautiful because they was once a part of something you really loved.               though I shouldn’t do cause even though they’re broken, they’re still a part of me and you” its about holding on to something that’s broken and lost already, but the little things you hold on to is still beautiful because they was once a part of something you really loved.",
+      "spotify_link": "https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko?si=_huVRFFlQXW20Awy2UHdtg",
+      "facebook_link": "https://www.facebook.com/profile.php?id=100000082983379",
+      "soundcloud_link": "https://soundcloud.com/soaverecords/shouldve-walked-away",
+      "instagram_link": "https://www.instagram.com/michelfannoun/?hl=en",
+      "youtube_link": "https://www.youtube.com/channel/UCId2kLKKBTGfKoeH9VGn_qg"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/contact/91"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/contact"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/contact"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=91"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "date": "2019-12-16T16:12:11",
+    "date_gmt": "2019-12-16T16:12:11",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=contact&#038;p=90"
+    },
+    "modified": "2019-12-18T17:24:33",
+    "modified_gmt": "2019-12-18T17:24:33",
+    "slug": "refeci",
+    "status": "publish",
+    "type": "contact",
+    "link": "http://paubodesign.com/kea/finalProject/contact/refeci/",
+    "title": {
+      "rendered": "Refeci"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "img": {
+        "ID": 80,
+        "id": 80,
+        "title": "refeci_contact",
+        "filename": "refeci_contact.png",
+        "filesize": 879148,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/refeci_contact.png",
+        "link": "http://paubodesign.com/kea/finalProject/refeci_contact/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "refeci_contact",
+        "status": "inherit",
+        "uploaded_to": 79,
+        "date": "2019-12-16 15:08:17",
+        "modified": "2019-12-16 15:08:17",
+        "menu_order": 0,
+        "mime_type": "image/png",
+        "type": "image",
+        "subtype": "png",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 1554,
+        "height": 1554,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/refeci_contact-150x150.png",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/refeci_contact-300x300.png",
+          "medium-width": 300,
+          "medium-height": 300,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/refeci_contact-768x768.png",
+          "medium_large-width": 580,
+          "medium_large-height": 580,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/refeci_contact-1024x1024.png",
+          "large-width": 580,
+          "large-height": 580,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/refeci_contact-1536x1536.png",
+          "1536x1536-width": 1536,
+          "1536x1536-height": 1536,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/refeci_contact.png",
+          "2048x2048-width": 1554,
+          "2048x2048-height": 1554,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/refeci_contact-1200x1200.png",
+          "post-thumbnail-width": 1200,
+          "post-thumbnail-height": 1200,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/refeci_contact.png",
+          "twentytwenty-fullscreen-width": 1554,
+          "twentytwenty-fullscreen-height": 1554
+        }
+      },
+      "header_name": "Refeci",
+      "description": " When I saw a really good friend of mine go into this really destructive way of living because of a really bad relationship he had with this girl. He got cheated, and lied to all the time and started just loose his ways more and more. I’m singing about ”picking up the pieces, even though I shouldn’t do cause even though they’re broken, they’re still a part of me and you” its about holding on to something thats broken and lost already, but the little things you hold on to is still beautiful because they was once a part of something you really loved.          though I shouldn’t do cause even though they’re broken, they’re still a part of me and you” its about holding on to something that’s broken and lost already, but the little things you hold on to is still beautiful because they was once a part of something you really loved. ",
+      "spotify_link": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp?si=-QJLuzxeSVSATYjLVLoijw",
+      "facebook_link": "https://www.facebook.com/Refeci/",
+      "soundcloud_link": "https://soundcloud.com/refeci",
+      "instagram_link": "https://www.instagram.com/refeci/?hl=en",
+      "youtube_link": "https://www.youtube.com/watch?v=kninADFfBZI"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/contact/90"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/contact"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/contact"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=90"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

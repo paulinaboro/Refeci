@@ -1,0 +1,218 @@
+body {
+  color: white;
+  font-family: "Montserrat";
+}
+
+.mainHeader2 {
+  margin-left: 45%;
+  font-size: 48px;
+  font-weight: 650;
+  /* font-family: "Montserrat";
+
+  /* font-size: 36px; */
+  font-weight: 700;
+  letter-spacing: 8px;
+  /* font-family: "Montserrat"; */
+}
+
+.booking1 {
+  margin-bottom: 8vh;
+}
+.navbar {
+  background: rgb(35, 34, 58);
+  background: linear-gradient(
+    90deg,
+    rgba(35, 34, 58, 1) #1A1E29%,
+    rgba(26, 30, 41, 1) 28%,
+    rgba(26, 30, 41, 1) 51%,
+    rgba(110, 85, 184, 1) 74%,
+    rgba(138, 113, 210, 0.6727065826330532) 95%
+  );
+}
+
+i {
+  font-size: 40px;
+  margin: 8px;
+}
+
+i {
+  transition: all 0.2s ease-in-out;
+}
+i:hover {
+  transform: scale(1.1);
+}
+
+.alignBtn {
+  float: left;
+}
+
+#showsRow2Col1 p {
+  opacity: 0.5;
+}
+
+#contactTemplate1 p {
+  opacity: 0.5;
+}
+
+#showsRow2Col2 p {
+  opacity: 0.5;
+}
+.mainWrapper {
+  background: rgb(35, 34, 58);
+  background: linear-gradient(
+    90deg,
+    rgba(35, 34, 58, 1) #1A1E29%,
+    rgba(26, 30, 41, 1) 28%,
+    rgba(26, 30, 41, 1) 51%,
+    rgba(110, 85, 184, 1) 74%,
+    rgba(138, 113, 210, 0.6727065826330532) 95%
+  );
+}
+
+p {
+  text-align: left;
+}
+h1 {
+  color: white;
+  font-family: "Montserrat";
+  text-align: justify;
+}
+
+h2 {
+  color: white;
+  /* font-weight: 50; */
+  letter-spacing: 3px;
+  text-align: left;
+
+  font-family: "Montserrat";
+}
+
+#showsRow1 {
+  height: 50vh;
+}
+
+.row {
+  text-align: center;
+}
+
+.portrait {
+  width: 600px;
+  height: 600px;
+}
+
+.mainHeader {
+  margin-top: 13vh;
+}
+
+#loudkLogo {
+  float: left;
+}
+
+.hideLG {
+  display: none;
+}
+
+/* Mobile Media Queries */
+@media only screen and (max-width: 600px) {
+  h1,
+  h2,
+  p {
+    font-size: 16px;
+    /* font-family: "Poppins", sans-serif; */
+  }
+  .mainWrapper p,
+  h1,
+  h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .portrait {
+    width: 300px;
+    height: 300px;
+  }
+  .smOrder2 {
+    order: 2;
+  }
+  .smOrder1 {
+    order: 4;
+  }
+}
+/* -------------------------------------------- */
+
+/* MEDIA QUERIES */
+/* MEDIA QUERIES TABLETS, IPADS 768px */
+@media (min-width: 601px) and (max-width: 1024px) {
+  .mainWrapper {
+    width: 100vw;
+  }
+  .smOrder2 {
+    order: 2;
+  }
+  .smOrder1 {
+    order: 4;
+  }
+  .portrait {
+    width: 500px;
+    height: 500px;
+  }
+
+  .hideMD {
+    display: none;
+  }
+  h1,
+  h2,
+  p {
+    font-size: 16px;
+  }
+  .contactTemplate1,
+  .contactTemplate2,
+  h1,
+  h2,
+  p {
+    margin-left: 20px;
+    margin-right: 30px;
+  }
+
+  /* FORM */
+  #formBtn {
+    min-width: 150px;
+    max-width: 170px !important;
+  }
+
+  input,
+  textarea {
+    border-radius: 30px;
+    width: 500px;
+    min-height: 40px;
+    padding-left: 30px;
+  }
+
+  input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+  }
+
+  .no-outline:focus {
+    outline: none;
+  }
+
+  form > div {
+    margin-bottom: 10px;
+  }
+  /* -------------------------------------------- */
+}
+
+/* MEDIA QUERIES DESKTOP */
+@media (min-width: 1025px) and (max-width: 20000px) {
+  .aboutDiv {
+    height: 150px;
+  }
+  #showsRow2Col1 {
+    margin-right: 100px;
+  }
+  .hidden {
+    display: none;
+  }
+}

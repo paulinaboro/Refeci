@@ -1,0 +1,954 @@
+[
+  {
+    "id": 116,
+    "date": "2019-12-19T17:33:43",
+    "date_gmt": "2019-12-19T17:33:43",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=song&#038;p=116"
+    },
+    "modified": "2019-12-19T17:33:43",
+    "modified_gmt": "2019-12-19T17:33:43",
+    "slug": "intro",
+    "status": "publish",
+    "type": "song",
+    "link": "http://paubodesign.com/kea/finalProject/song/intro/",
+    "title": {
+      "rendered": "Intro"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "audiofile": {
+        "ID": 61,
+        "id": 61,
+        "title": "Affiliated - Lullaby (Cypher)",
+        "filename": "Affiliated-Lullaby-Cypher.mp3",
+        "filesize": 7129684,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/Affiliated-Lullaby-Cypher.mp3",
+        "link": "http://paubodesign.com/kea/finalProject/song/doggo-christmas-song__trashed/affiliated-lullaby-cypher/",
+        "alt": "",
+        "author": "3",
+        "description": "\"Affiliated - Lullaby (Cypher)\".",
+        "caption": "",
+        "name": "affiliated-lullaby-cypher",
+        "status": "inherit",
+        "uploaded_to": 60,
+        "date": "2019-12-13 12:13:49",
+        "modified": "2019-12-19 17:32:44",
+        "menu_order": 0,
+        "mime_type": "audio/mpeg",
+        "type": "audio",
+        "subtype": "mpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/audio.png"
+      },
+      "playlistimg": false,
+      "roundimg": false,
+      "squareimg": false,
+      "songtitle": "Intro",
+      "songdescription": "-",
+      "img": {
+        "ID": 94,
+        "id": 94,
+        "title": "New cover 16by9 desktop new",
+        "filename": "New-cover-16by9-desktop-new.png",
+        "filesize": 2334229,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+        "link": "http://paubodesign.com/kea/finalProject/background_photo/slide1/new-cover-16by9-desktop-new/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "new-cover-16by9-desktop-new",
+        "status": "inherit",
+        "uploaded_to": 93,
+        "date": "2019-12-16 19:04:02",
+        "modified": "2019-12-16 19:04:02",
+        "menu_order": 0,
+        "mime_type": "image/png",
+        "type": "image",
+        "subtype": "png",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 1920,
+        "height": 1079,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-150x150.png",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-300x169.png",
+          "medium-width": 300,
+          "medium-height": 169,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-768x432.png",
+          "medium_large-width": 580,
+          "medium_large-height": 326,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1024x575.png",
+          "large-width": 580,
+          "large-height": 326,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1536x863.png",
+          "1536x1536-width": 1536,
+          "1536x1536-height": 863,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+          "2048x2048-width": 1920,
+          "2048x2048-height": 1079,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new-1200x674.png",
+          "post-thumbnail-width": 1200,
+          "post-thumbnail-height": 674,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/New-cover-16by9-desktop-new.png",
+          "twentytwenty-fullscreen-width": 1920,
+          "twentytwenty-fullscreen-height": 1079
+        }
+      },
+      "id": "1",
+      "songnumber": "01",
+      "hexcolor": "#9A399A"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song/116"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/song"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=116"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "date": "2019-12-19T17:32:20",
+    "date_gmt": "2019-12-19T17:32:20",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=song&#038;p=115"
+    },
+    "modified": "2019-12-19T17:32:20",
+    "modified_gmt": "2019-12-19T17:32:20",
+    "slug": "pieces",
+    "status": "publish",
+    "type": "song",
+    "link": "http://paubodesign.com/kea/finalProject/song/pieces/",
+    "title": {
+      "rendered": "Pieces"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "audiofile": {
+        "ID": 33,
+        "id": 33,
+        "title": "gotmusic",
+        "filename": "gotmusic.mp3",
+        "filesize": 6134733,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/gotmusic.mp3",
+        "link": "http://paubodesign.com/kea/finalProject/song/song2__trashed/gotmusic/",
+        "alt": "",
+        "author": "1",
+        "description": "\"gotmusic\".",
+        "caption": "",
+        "name": "gotmusic",
+        "status": "inherit",
+        "uploaded_to": 32,
+        "date": "2019-12-11 10:51:18",
+        "modified": "2019-12-19 17:31:21",
+        "menu_order": 0,
+        "mime_type": "audio/mpeg",
+        "type": "audio",
+        "subtype": "mpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/audio.png"
+      },
+      "playlistimg": false,
+      "roundimg": false,
+      "squareimg": false,
+      "songtitle": "Pieces",
+      "songdescription": "-",
+      "img": {
+        "ID": 36,
+        "id": 36,
+        "title": "pieces",
+        "filename": "pieces.jpg",
+        "filesize": 121832,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/pieces.jpg",
+        "link": "http://paubodesign.com/kea/finalProject/song/song3__trashed/pieces/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "pieces",
+        "status": "inherit",
+        "uploaded_to": 35,
+        "date": "2019-12-11 10:53:47",
+        "modified": "2019-12-11 10:53:47",
+        "menu_order": 0,
+        "mime_type": "image/jpeg",
+        "type": "image",
+        "subtype": "jpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 896,
+        "height": 897,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/pieces-150x150.jpg",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/pieces-300x300.jpg",
+          "medium-width": 300,
+          "medium-height": 300,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/pieces-768x769.jpg",
+          "medium_large-width": 580,
+          "medium_large-height": 581,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/pieces.jpg",
+          "large-width": 580,
+          "large-height": 581,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/pieces.jpg",
+          "1536x1536-width": 896,
+          "1536x1536-height": 897,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/pieces.jpg",
+          "2048x2048-width": 896,
+          "2048x2048-height": 897,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/pieces.jpg",
+          "post-thumbnail-width": 896,
+          "post-thumbnail-height": 897,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/pieces.jpg",
+          "twentytwenty-fullscreen-width": 896,
+          "twentytwenty-fullscreen-height": 897
+        }
+      },
+      "id": "2",
+      "songnumber": "02",
+      "hexcolor": "#944C81"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song/115"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/song"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=115"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "date": "2019-12-19T17:31:00",
+    "date_gmt": "2019-12-19T17:31:00",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=song&#038;p=114"
+    },
+    "modified": "2019-12-19T17:31:00",
+    "modified_gmt": "2019-12-19T17:31:00",
+    "slug": "man-on-the-moon",
+    "status": "publish",
+    "type": "song",
+    "link": "http://paubodesign.com/kea/finalProject/song/man-on-the-moon/",
+    "title": {
+      "rendered": "Man on the moon"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "audiofile": {
+        "ID": 61,
+        "id": 61,
+        "title": "Affiliated - Lullaby (Cypher)",
+        "filename": "Affiliated-Lullaby-Cypher.mp3",
+        "filesize": 7129684,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/Affiliated-Lullaby-Cypher.mp3",
+        "link": "http://paubodesign.com/kea/finalProject/song/doggo-christmas-song__trashed/affiliated-lullaby-cypher/",
+        "alt": "",
+        "author": "3",
+        "description": "\"Affiliated - Lullaby (Cypher)\".",
+        "caption": "",
+        "name": "affiliated-lullaby-cypher",
+        "status": "inherit",
+        "uploaded_to": 60,
+        "date": "2019-12-13 12:13:49",
+        "modified": "2019-12-19 17:32:44",
+        "menu_order": 0,
+        "mime_type": "audio/mpeg",
+        "type": "audio",
+        "subtype": "mpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/audio.png"
+      },
+      "playlistimg": false,
+      "roundimg": false,
+      "squareimg": false,
+      "songtitle": "Man on the moon",
+      "songdescription": "-",
+      "img": {
+        "ID": 37,
+        "id": 37,
+        "title": "man_on_the_moon",
+        "filename": "man_on_the_moon.jpg",
+        "filesize": 315656,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/man_on_the_moon.jpg",
+        "link": "http://paubodesign.com/kea/finalProject/song/song2__trashed/man_on_the_moon/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "man_on_the_moon",
+        "status": "inherit",
+        "uploaded_to": 32,
+        "date": "2019-12-11 10:54:41",
+        "modified": "2019-12-11 10:54:41",
+        "menu_order": 0,
+        "mime_type": "image/jpeg",
+        "type": "image",
+        "subtype": "jpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 1521,
+        "height": 1521,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/man_on_the_moon-150x150.jpg",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/man_on_the_moon-300x300.jpg",
+          "medium-width": 300,
+          "medium-height": 300,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/man_on_the_moon-768x768.jpg",
+          "medium_large-width": 580,
+          "medium_large-height": 580,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/man_on_the_moon-1024x1024.jpg",
+          "large-width": 580,
+          "large-height": 580,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/man_on_the_moon.jpg",
+          "1536x1536-width": 1521,
+          "1536x1536-height": 1521,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/man_on_the_moon.jpg",
+          "2048x2048-width": 1521,
+          "2048x2048-height": 1521,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/man_on_the_moon-1200x1200.jpg",
+          "post-thumbnail-width": 1200,
+          "post-thumbnail-height": 1200,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/man_on_the_moon.jpg",
+          "twentytwenty-fullscreen-width": 1521,
+          "twentytwenty-fullscreen-height": 1521
+        }
+      },
+      "id": "3",
+      "songnumber": "03",
+      "hexcolor": "#7D3D79"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song/114"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/song"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=114"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "date": "2019-12-19T17:29:51",
+    "date_gmt": "2019-12-19T17:29:51",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=song&#038;p=112"
+    },
+    "modified": "2019-12-19T17:43:02",
+    "modified_gmt": "2019-12-19T17:43:02",
+    "slug": "oh-love",
+    "status": "publish",
+    "type": "song",
+    "link": "http://paubodesign.com/kea/finalProject/song/oh-love/",
+    "title": {
+      "rendered": "Oh love"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "audiofile": {
+        "ID": 25,
+        "id": 25,
+        "title": "findyou",
+        "filename": "findyou.mp3",
+        "filesize": 3611728,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/findyou.mp3",
+        "link": "http://paubodesign.com/kea/finalProject/song/we-used-to/findyou/",
+        "alt": "",
+        "author": "1",
+        "description": "\"findyou\".",
+        "caption": "",
+        "name": "findyou",
+        "status": "inherit",
+        "uploaded_to": 110,
+        "date": "2019-12-11 10:38:09",
+        "modified": "2019-12-19 17:28:20",
+        "menu_order": 0,
+        "mime_type": "audio/mpeg",
+        "type": "audio",
+        "subtype": "mpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/audio.png"
+      },
+      "playlistimg": false,
+      "roundimg": false,
+      "squareimg": false,
+      "songtitle": "Oh love",
+      "songdescription": "-",
+      "img": {
+        "ID": 113,
+        "id": 113,
+        "title": "oh_love_2",
+        "filename": "oh_love_2-scaled.jpg",
+        "filesize": 1985520,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/oh_love_2-scaled.jpg",
+        "link": "http://paubodesign.com/kea/finalProject/song/oh-love/oh_love_2/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "oh_love_2",
+        "status": "inherit",
+        "uploaded_to": 112,
+        "date": "2019-12-19 17:28:46",
+        "modified": "2019-12-19 17:28:46",
+        "menu_order": 0,
+        "mime_type": "image/jpeg",
+        "type": "image",
+        "subtype": "jpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 2560,
+        "height": 2560,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/oh_love_2-150x150.jpg",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/oh_love_2-300x300.jpg",
+          "medium-width": 300,
+          "medium-height": 300,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/oh_love_2-768x768.jpg",
+          "medium_large-width": 580,
+          "medium_large-height": 580,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/oh_love_2-1024x1024.jpg",
+          "large-width": 580,
+          "large-height": 580,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/oh_love_2-1536x1536.jpg",
+          "1536x1536-width": 1536,
+          "1536x1536-height": 1536,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/oh_love_2-2048x2048.jpg",
+          "2048x2048-width": 2048,
+          "2048x2048-height": 2048,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/oh_love_2-1200x1200.jpg",
+          "post-thumbnail-width": 1200,
+          "post-thumbnail-height": 1200,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/oh_love_2-1980x1980.jpg",
+          "twentytwenty-fullscreen-width": 1980,
+          "twentytwenty-fullscreen-height": 1980
+        }
+      },
+      "id": "4",
+      "songnumber": "04",
+      "hexcolor": "#35688E"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song/112"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/song"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=112"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "date": "2019-12-19T17:27:12",
+    "date_gmt": "2019-12-19T17:27:12",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=song&#038;p=110"
+    },
+    "modified": "2019-12-19T17:27:12",
+    "modified_gmt": "2019-12-19T17:27:12",
+    "slug": "we-used-to",
+    "status": "publish",
+    "type": "song",
+    "link": "http://paubodesign.com/kea/finalProject/song/we-used-to/",
+    "title": {
+      "rendered": "We used to"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "audiofile": {
+        "ID": 25,
+        "id": 25,
+        "title": "findyou",
+        "filename": "findyou.mp3",
+        "filesize": 3611728,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/findyou.mp3",
+        "link": "http://paubodesign.com/kea/finalProject/song/we-used-to/findyou/",
+        "alt": "",
+        "author": "1",
+        "description": "\"findyou\".",
+        "caption": "",
+        "name": "findyou",
+        "status": "inherit",
+        "uploaded_to": 110,
+        "date": "2019-12-11 10:38:09",
+        "modified": "2019-12-19 17:28:20",
+        "menu_order": 0,
+        "mime_type": "audio/mpeg",
+        "type": "audio",
+        "subtype": "mpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/audio.png"
+      },
+      "playlistimg": false,
+      "roundimg": false,
+      "squareimg": false,
+      "songtitle": "We used to",
+      "songdescription": "-",
+      "img": {
+        "ID": 111,
+        "id": 111,
+        "title": "we_used_to",
+        "filename": "we_used_to.jpg",
+        "filesize": 3344795,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/we_used_to.jpg",
+        "link": "http://paubodesign.com/kea/finalProject/song/we-used-to/we_used_to/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "we_used_to",
+        "status": "inherit",
+        "uploaded_to": 110,
+        "date": "2019-12-19 17:26:52",
+        "modified": "2019-12-19 17:26:52",
+        "menu_order": 0,
+        "mime_type": "image/jpeg",
+        "type": "image",
+        "subtype": "jpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 2000,
+        "height": 2000,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/we_used_to-150x150.jpg",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/we_used_to-300x300.jpg",
+          "medium-width": 300,
+          "medium-height": 300,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/we_used_to-768x768.jpg",
+          "medium_large-width": 580,
+          "medium_large-height": 580,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/we_used_to-1024x1024.jpg",
+          "large-width": 580,
+          "large-height": 580,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/we_used_to-1536x1536.jpg",
+          "1536x1536-width": 1536,
+          "1536x1536-height": 1536,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/we_used_to.jpg",
+          "2048x2048-width": 2000,
+          "2048x2048-height": 2000,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/we_used_to-1200x1200.jpg",
+          "post-thumbnail-width": 1200,
+          "post-thumbnail-height": 1200,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/we_used_to-1980x1980.jpg",
+          "twentytwenty-fullscreen-width": 1980,
+          "twentytwenty-fullscreen-height": 1980
+        }
+      },
+      "id": "5",
+      "songnumber": "05",
+      "hexcolor": "#3B2C62"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song/110"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/song"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=110"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "date": "2019-12-19T17:25:30",
+    "date_gmt": "2019-12-19T17:25:30",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=song&#038;p=109"
+    },
+    "modified": "2019-12-19T17:25:30",
+    "modified_gmt": "2019-12-19T17:25:30",
+    "slug": "waste-my-time",
+    "status": "publish",
+    "type": "song",
+    "link": "http://paubodesign.com/kea/finalProject/song/waste-my-time/",
+    "title": {
+      "rendered": "Waste my time"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "audiofile": {
+        "ID": 33,
+        "id": 33,
+        "title": "gotmusic",
+        "filename": "gotmusic.mp3",
+        "filesize": 6134733,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/gotmusic.mp3",
+        "link": "http://paubodesign.com/kea/finalProject/song/song2__trashed/gotmusic/",
+        "alt": "",
+        "author": "1",
+        "description": "\"gotmusic\".",
+        "caption": "",
+        "name": "gotmusic",
+        "status": "inherit",
+        "uploaded_to": 32,
+        "date": "2019-12-11 10:51:18",
+        "modified": "2019-12-19 17:31:21",
+        "menu_order": 0,
+        "mime_type": "audio/mpeg",
+        "type": "audio",
+        "subtype": "mpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/audio.png"
+      },
+      "playlistimg": false,
+      "roundimg": false,
+      "squareimg": false,
+      "songtitle": "Waste my time",
+      "songdescription": "-",
+      "img": {
+        "ID": 50,
+        "id": 50,
+        "title": "waste_my_time",
+        "filename": "waste_my_time-scaled.jpg",
+        "filesize": 806657,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/waste_my_time-scaled.jpg",
+        "link": "http://paubodesign.com/kea/finalProject/song/pieces__trashed/waste_my_time/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "waste_my_time",
+        "status": "inherit",
+        "uploaded_to": 49,
+        "date": "2019-12-12 13:42:22",
+        "modified": "2019-12-12 13:42:22",
+        "menu_order": 0,
+        "mime_type": "image/jpeg",
+        "type": "image",
+        "subtype": "jpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 2560,
+        "height": 2560,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/waste_my_time-150x150.jpg",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/waste_my_time-300x300.jpg",
+          "medium-width": 300,
+          "medium-height": 300,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/waste_my_time-768x768.jpg",
+          "medium_large-width": 580,
+          "medium_large-height": 580,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/waste_my_time-1024x1024.jpg",
+          "large-width": 580,
+          "large-height": 580,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/waste_my_time-1536x1536.jpg",
+          "1536x1536-width": 1536,
+          "1536x1536-height": 1536,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/waste_my_time-2048x2048.jpg",
+          "2048x2048-width": 2048,
+          "2048x2048-height": 2048,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/waste_my_time-1200x1200.jpg",
+          "post-thumbnail-width": 1200,
+          "post-thumbnail-height": 1200,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/waste_my_time-1980x1980.jpg",
+          "twentytwenty-fullscreen-width": 1980,
+          "twentytwenty-fullscreen-height": 1980
+        }
+      },
+      "id": "6",
+      "songnumber": "06",
+      "hexcolor": "#3B2C62"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song/109"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/song"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=109"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "date": "2019-12-19T17:12:44",
+    "date_gmt": "2019-12-19T17:12:44",
+    "guid": {
+      "rendered": "http://paubodesign.com/kea/finalProject/?post_type=song&#038;p=107"
+    },
+    "modified": "2019-12-19T17:27:44",
+    "modified_gmt": "2019-12-19T17:27:44",
+    "slug": "lost",
+    "status": "publish",
+    "type": "song",
+    "link": "http://paubodesign.com/kea/finalProject/song/lost/",
+    "title": {
+      "rendered": "Lost"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "acf": {
+      "audiofile": {
+        "ID": 61,
+        "id": 61,
+        "title": "Affiliated - Lullaby (Cypher)",
+        "filename": "Affiliated-Lullaby-Cypher.mp3",
+        "filesize": 7129684,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/Affiliated-Lullaby-Cypher.mp3",
+        "link": "http://paubodesign.com/kea/finalProject/song/doggo-christmas-song__trashed/affiliated-lullaby-cypher/",
+        "alt": "",
+        "author": "3",
+        "description": "\"Affiliated - Lullaby (Cypher)\".",
+        "caption": "",
+        "name": "affiliated-lullaby-cypher",
+        "status": "inherit",
+        "uploaded_to": 60,
+        "date": "2019-12-13 12:13:49",
+        "modified": "2019-12-19 17:32:44",
+        "menu_order": 0,
+        "mime_type": "audio/mpeg",
+        "type": "audio",
+        "subtype": "mpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/audio.png"
+      },
+      "playlistimg": false,
+      "roundimg": false,
+      "squareimg": false,
+      "songtitle": "Lost",
+      "songdescription": "When I saw a really good friend of mine go into this really destructive way of living because of a really bad relationship he had with this girl. He got cheated, and lied to all the time and started just loose his ways more and more. I’m singing about ”picking up the pieces, even though I shouldn’t do cause even though they’re broken, they’re still a part of me and you” its about holding on to something thats broken and lost already, but the little things you hold on to is still beautiful because they was once a part of something you really loved.",
+      "img": {
+        "ID": 108,
+        "id": 108,
+        "title": "cover",
+        "filename": "cover-scaled.jpg",
+        "filesize": 684737,
+        "url": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/cover-scaled.jpg",
+        "link": "http://paubodesign.com/kea/finalProject/song/lost/cover/",
+        "alt": "",
+        "author": "1",
+        "description": "",
+        "caption": "",
+        "name": "cover",
+        "status": "inherit",
+        "uploaded_to": 107,
+        "date": "2019-12-19 17:11:24",
+        "modified": "2019-12-19 17:11:24",
+        "menu_order": 0,
+        "mime_type": "image/jpeg",
+        "type": "image",
+        "subtype": "jpeg",
+        "icon": "http://paubodesign.com/kea/finalProject/wp-includes/images/media/default.png",
+        "width": 2560,
+        "height": 2560,
+        "sizes": {
+          "thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/cover-150x150.jpg",
+          "thumbnail-width": 150,
+          "thumbnail-height": 150,
+          "medium": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/cover-300x300.jpg",
+          "medium-width": 300,
+          "medium-height": 300,
+          "medium_large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/cover-768x768.jpg",
+          "medium_large-width": 580,
+          "medium_large-height": 580,
+          "large": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/cover-1024x1024.jpg",
+          "large-width": 580,
+          "large-height": 580,
+          "1536x1536": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/cover-1536x1536.jpg",
+          "1536x1536-width": 1536,
+          "1536x1536-height": 1536,
+          "2048x2048": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/cover-2048x2048.jpg",
+          "2048x2048-width": 2048,
+          "2048x2048-height": 2048,
+          "post-thumbnail": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/cover-1200x1200.jpg",
+          "post-thumbnail-width": 1200,
+          "post-thumbnail-height": 1200,
+          "twentytwenty-fullscreen": "http://paubodesign.com/kea/finalProject/wp-content/uploads/2019/12/cover-1980x1980.jpg",
+          "twentytwenty-fullscreen-width": 1980,
+          "twentytwenty-fullscreen-height": 1980
+        }
+      },
+      "id": "7",
+      "songnumber": "07",
+      "hexcolor": "#8c3d84"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song/107"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/song"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/types/song"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://paubodesign.com/kea/finalProject/wp-json/wp/v2/media?parent=107"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
