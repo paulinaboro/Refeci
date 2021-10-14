@@ -1,4 +1,4 @@
-🎵 **Website Presenting music album of Swedish and Danish artists: Michel Fannoun and Refeci.** 🎵
+🎵 **Website presenting music album of Swedish and Danish artists: Michel Fannoun and Refeci.** 🎵
  
 I was responsible for coding the website using **VanillaJS**. 
 
