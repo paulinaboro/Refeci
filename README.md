@@ -6,3 +6,5 @@ I have created a database in "Wordpress" so the clients will be able to add/chan
 
 I fetched the JSON RESTful from WordPress and later add it to the HTML pages throgh JavaScript.
 
+Documentation:
+https://drive.google.com/file/d/1x_mQVtzBREb6XhbALXbiFhOfzPjA8sDK/view?usp=sharing
